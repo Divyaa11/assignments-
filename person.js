@@ -2,22 +2,22 @@ let Person = [
     {
         'firstName': 'Atul',
         'lastName': 'Srivastav',
-        'Home-Address': 'Mirganj'
+        'Office-Address': 'Mirganj'
     },
     {
         'firstName': 'Mithilesh',
         'lastName': 'Tiwari',
-        'Home-Address': 'Mairwa'
+        'Office-Address': 'Mairwa'
     },
     {
         'firstName': 'Shailendra',
         'lastName': 'Mishra',
-        'Home-Address': 'Patna'
+        'Office-Address': 'Patna'
     },
     {
         'firstName': 'Brahma',
         'lastName': 'Mishra',
-        'Home-Address': 'Hathua'
+        'Office-Address': 'Hathua'
     }
 ]
 for(let i=0;i<Person.length;i++){
